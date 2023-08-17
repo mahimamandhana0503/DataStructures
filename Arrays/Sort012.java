@@ -32,3 +32,6 @@ class Sort012 {
         sort012(a, 6);
     }
 }
+
+// Time Complexity : O(n)
+//  Space Complexity : O(1)
